@@ -1,0 +1,3 @@
+[workspace]
+members = ["libciphrbox", "ciphrbox-cli"]
+resolver = "2"
